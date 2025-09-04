@@ -46,7 +46,7 @@ html, body {
   margin: 0;
   padding: 0;
   /* background: var(--main-gradient); */
-  background-image: url("/images/cool-geometric-triangular-hallway-3d-rendering.jpg");
+  background-image: url("../images/cool-geometric-triangular-hallway-3d-rendering.jpg");
   background-attachment: fixed;  /* keeps gradient in place */
   background-size: cover;
   background-repeat: no-repeat;
